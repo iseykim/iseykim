@@ -1,6 +1,4 @@
-### Hi there 👋
-
-## I'm Sey.
+### I'm Sey.
 
 Currently a Teaching Fellow @ FullStack Academy of Code
 <!--
