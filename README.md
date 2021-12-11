@@ -1,4 +1,4 @@
-### I'm Sey.
+### 🌊 Sey Kim
 
 Currently a Teaching Fellow @ FullStack Academy of Code
 <!--
@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  Software Engineer 
-  <h3> Sey </h3>
-</div>
+Software Engineer, passionate about open sourcing education and empowering creatives to build
+
+- I'm currently teaching fullstack Javascript stack: React, Redux, Node.js, SQL, Jamstack 
