@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 
 Software Engineer, passionate about open sourcing education and empowering creatives to build
 
-- I'm currently teaching fullstack Javascript stack: React, Redux, Node.js, SQL, Jamstack 
+- I'm currently teaching the fullstack Javascript stack: React, Redux, Node.js, SQL, Jamstack
