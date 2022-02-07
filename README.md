@@ -1,6 +1,6 @@
 ### 🌊 Sey Kim
 
-Currently a Teaching Fellow @ FullStack Academy of Code
+Currently a Instructor @ FullStack Academy of Code
 <!--
 **iseykim/iseykim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
