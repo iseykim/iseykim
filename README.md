@@ -1,6 +1,5 @@
-### 🌊 Sey Kim
+## Sey Kim
 
-Currently an Instructor @ Fullstack Academy of Code
 <!--
 **iseykim/iseykim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-Software Engineer, passionate about open sourcing education and empowering creatives to build
-
-- I'm currently teaching the fullstack Javascript stack: React, Redux, Node & Express.js, SQL, Jamstack
