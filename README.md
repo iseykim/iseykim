@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Engineer
+Software Engineer @ Clicktripz
+
+Check out my [site](https://seykim.com)!
