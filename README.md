@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software Engineer
+**Software Engineer**
 
-Check out my [site](https://seykim.com)!
+[Sey Kim](https://seykim.com)!
